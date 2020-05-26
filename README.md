@@ -105,4 +105,18 @@ Bônus 04 - Data Science Office Hour
 
 # 3.0 - Codes of the evolution <br>Códigos da Evolução
 
-## Module 01 - Understanding the Business Problem** <br> Modulo 01 - Entendendo o Problema de Negócio
+## Module 01 - Understanding the Business Problem <br> Modulo 01 - Entendendo o Problema de Negócio
+
+Neste módulo ele começa falando sobre os 4 Tópicos para entender os problemas de negócio. <br>
+Como pano de fundo, o primeiro e principal ensinamento que ele diz é "Não vá iniciar imediatamente o projeto que te mandaram fazer".<br>
+Entenda qual qual é a motivação que está por traz daquele pedido, o contexto. Vá para quem te pediu isso e tente descobrir de onde saiu esta demanda e dentro de qual situação.<br>
+Entenda qual é a causa raiz do problema. O que realmente a empresa está querendo com o resultdo deste projeto. Qual o problema que eles estão querendo solucionar com ele.<br>
+Descubra quem é o dono do problema, o Stakeholder. De quem partiu o pedido, normalmente será alguém grande na empresa. Quem é o "dono" da seção dentro da empresa que será afetada pelo resultado do projeto. Essa pessoa com certeza poderá te explicar melhor o objetivo disso tudo. <br>
+Depois de definido e mantido ou não o principal propósito do projeto, defina o formato da solução. Qual o formato da solução que você irá entregar. Nesse processo terão que der definidos: granularidade, tipo de problema, potenciais métodos e formato de entrega.
+
+granularidade: por dia, por semana, mensalmente, por loja, por produto, por categoria, por área
+tipo de problema: regressão, classificação, predição, clusterização
+potenciais métodos: rede neural, time series, 
+formato de entrega: dashboard, csv, imagem em anexo de email, no próprio celular
+
+Para começar a aprender todo o processo dentro de um projeto de Data Science serão usados os dados de uma competição do Kaggle que pertencem aos ROSSMANN e tem o nome de ROSSMANN STORE SALES.
