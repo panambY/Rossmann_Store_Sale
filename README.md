@@ -12,4 +12,15 @@ Este repositório tem como principal objetivo mostrar a evolução do meu curso 
 Mostrarei os códigos, o resumo sobre meus aprendizados e o post que escrevi sobre o conteúdo deste curso.
 
 # Index
-## Índice
+Índice
+## 1.0 - About the course
+Sobre o curso
+## 2.0 - Content of the course
+Conteúdo do curso
+## 3.0 - Codes of the evolution
+Códigos da Evolução
+## 4.0 - Conclusion
+Conclusão
+
+# 1.0 - About the course
+Sobre o Curso
