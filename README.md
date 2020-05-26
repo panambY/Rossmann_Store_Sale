@@ -12,15 +12,15 @@ Este repositório tem como principal objetivo mostrar a evolução do meu curso 
 Mostrarei os códigos, o resumo sobre meus aprendizados e o post que escrevi sobre o conteúdo deste curso.
 
 # Index
-Índice
+<br>Índice
 ## 1.0 - About the course
-Sobre o curso
+<br>Sobre o curso
 ## 2.0 - Content of the course
-Conteúdo do curso
+<br>Conteúdo do curso
 ## 3.0 - Codes of the evolution
-Códigos da Evolução
-## 4.0 - Conclusion
-Conclusão
+<br>Códigos da Evolução
+## 4.0 - Conclusion 
+<br>Conclusão
 
 ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/gif_minions.gif)
 
