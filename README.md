@@ -3,7 +3,7 @@
 
 O principal objetivo deste repositório é mostrar a evolução do meu curso brasileiro Ciência de Dados em Produção.
 
-<div align=”center”> ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/data_science_em_producao_logo.png)</div>
+<img align=”center”> ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/data_science_em_producao_logo.png)</img>
 
 **This repositore has the main purpose to show the evolution of my Data Science in Production brazilian course.
 I will show the codes, the abstract about my learnings and the post which I writing about this course content.**
