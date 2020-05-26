@@ -138,9 +138,9 @@ Para começar a aprender todo o processo dentro de um projeto de Data Science se
 Para ecessá-lo basta clicar neste link: https://www.kaggle.com/c/rossmann-store-sales
 
 **Within this competition the answers to understand the business problem will be as follows:**<br>
-- **Motivation -> CFO requested this solution during a monthly results meeting **<br>
+- **Motivation -> CFO requested this solution during a monthly results meeting**<br>
 - **Root Cause of the Problem -> Investment in Store Renovation** <br>
-- **Who is the Stakeholder -> The CFO **<br>
+- **Who is the Stakeholder -> The CFO**<br>
 - **Solution Format -> granularity (daily sales in $ for the next 6 weeks), type of problem (prediction), methods (time series, regression and neural networks) and delivery format (via cell phone)**
 
 Dentro desta competição as respostas para entendermos o problema do negócio ficará da seguinte forma:<br>
