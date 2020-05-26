@@ -108,11 +108,11 @@ Bônus 04 - Data Science Office Hour
 ## Module 01 - Understanding the Business Problem <br> Modulo 01 - Entendendo o Problema de Negócio
 
 **In this module he starts by talking about the 4 Topics to understand business problems. <br>
-As a background, the first and main teaching he says is "Don't go immediately to start the project that you were told to do".<br>
-- Understand what is the motivation behind that request, the context. Go to whoever asked you to and try to find out where this demand came from and within what situation. <br>
-- Understand the root cause of the problem. What the company really wants with the result of this project. What problem are they trying to solve with him? <br>
-- Find out who owns the problem, the Stakeholder. Whoever started the order will usually be someone big in the company. Who is the "owner" of the section within the company that will be affected by the outcome of the project. That person will certainly be able to better explain the purpose of it all. <br>
-- After defining and maintaining or not the main purpose of the project, define the format of the solution. What format of the solution will you deliver. In this process, granularity, type of problem, potential methods and delivery format will have to be defined.**
+As a background, the first and main teaching he says is "Don't go immediately to start the project that you were told to do".**<br>
+- **Understand what is the motivation behind that request, the context. Go to whoever asked you to and try to find out where this demand came from and within what situation.** <br>
+- **Understand the root cause of the problem. What the company really wants with the result of this project. What problem are they trying to solve with him?**<br>
+- **Find out who owns the problem, the Stakeholder. Whoever started the order will usually be someone big in the company. Who is the "owner" of the section within the company that will be affected by the outcome of the project. That person will certainly be able to better explain the purpose of it all.** <br>
+- **After defining and maintaining or not the main purpose of the project, define the format of the solution. What format of the solution will you deliver. In this process, granularity, type of problem, potential methods and delivery format will have to be defined.**
 
 **granularity: per day, per week, monthly, per store, per product, per category, per area; <br>
 type of problem: regression, classification, prediction, clustering; <br>
@@ -136,3 +136,15 @@ To need it just click on this link:https://www.kaggle.com/c/rossmann-store-sales
 
 Para começar a aprender todo o processo dentro de um projeto de Data Science serão usados os dados de uma competição do Kaggle que pertencem aos ROSSMANN e tem o nome de ROSSMANN STORE SALES.<br>
 Para ecessá-lo basta clicar neste link: https://www.kaggle.com/c/rossmann-store-sales
+
+**Within this competition the answers to understand the business problem will be as follows:**<br>
+- **Motivation -> CFO requested this solution during a monthly results meeting **<br>
+- **Root Cause of the Problem -> Investment in Store Renovation** <br>
+- **Who is the Stakeholder -> The CFO **<br>
+- **Solution Format -> granularity (daily sales in $ for the next 6 weeks), type of problem (prediction), methods (time series, regression and neural networks) and delivery format (via cell phone)**
+
+Dentro desta competição as respostas para entendermos o problema do negócio ficará da seguinte forma:<br>
+- Motivação -> CFO requisitou essa solução durante uma reunião de resultados mensais<br>
+- Causa Raiz do Problema -> Investimento em Reforma das Lojas<br>
+- Quem é o Stakeholder -> O CFO<br>
+- Formato da Solução -> granularidade (vendas diárias em $ nas proximas 6 semanas), tipo de problema (predição), métodos (time series, regressão e redes neurais) e formato de entrega (via celular)
