@@ -107,16 +107,32 @@ Bônus 04 - Data Science Office Hour
 
 ## Module 01 - Understanding the Business Problem <br> Modulo 01 - Entendendo o Problema de Negócio
 
+**In this module he starts by talking about the 4 Topics to understand business problems. <br>
+As a background, the first and main teaching he says is "Don't go immediately to start the project that you were told to do".<br>
+- Understand what is the motivation behind that request, the context. Go to whoever asked you to and try to find out where this demand came from and within what situation. <br>
+**- Understand the root cause of the problem. What the company really wants with the result of this project. What problem are they trying to solve with him? <br>
+- Find out who owns the problem, the Stakeholder. Whoever started the order will usually be someone big in the company. Who is the "owner" of the section within the company that will be affected by the outcome of the project. That person will certainly be able to better explain the purpose of it all. <br>
+**- After defining and maintaining or not the main purpose of the project, define the format of the solution. What format of the solution will you deliver. In this process, granularity, type of problem, potential methods and delivery format will have to be defined.**
+
+**granularity: per day, per week, monthly, per store, per product, per category, per area; <br>
+type of problem: regression, classification, prediction, clustering; <br>
+potential methods: neural network, time series; and <br>
+delivery format: dashboard, csv, image in email attachment, on the cell phone.**
+
 Neste módulo ele começa falando sobre os 4 Tópicos para entender os problemas de negócio. <br>
 Como pano de fundo, o primeiro e principal ensinamento que ele diz é "Não vá iniciar imediatamente o projeto que te mandaram fazer".<br>
-Entenda qual qual é a motivação que está por traz daquele pedido, o contexto. Vá para quem te pediu isso e tente descobrir de onde saiu esta demanda e dentro de qual situação.<br>
-Entenda qual é a causa raiz do problema. O que realmente a empresa está querendo com o resultdo deste projeto. Qual o problema que eles estão querendo solucionar com ele.<br>
-Descubra quem é o dono do problema, o Stakeholder. De quem partiu o pedido, normalmente será alguém grande na empresa. Quem é o "dono" da seção dentro da empresa que será afetada pelo resultado do projeto. Essa pessoa com certeza poderá te explicar melhor o objetivo disso tudo. <br>
-Depois de definido e mantido ou não o principal propósito do projeto, defina o formato da solução. Qual o formato da solução que você irá entregar. Nesse processo terão que der definidos: granularidade, tipo de problema, potenciais métodos e formato de entrega.
+- Entenda qual qual é a motivação que está por traz daquele pedido, o contexto. Vá para quem te pediu isso e tente descobrir de onde saiu esta demanda e dentro de qual situação.<br>
+- Entenda qual é a causa raiz do problema. O que realmente a empresa está querendo com o resultado deste projeto. Qual o problema que eles estão querendo solucionar com ele.<br>
+- Descubra quem é o dono do problema, o Stakeholder. De quem partiu o pedido, normalmente será alguém grande na empresa. Quem é o "dono" da seção dentro da empresa que será afetada pelo resultado do projeto. Essa pessoa com certeza poderá te explicar melhor o objetivo disso tudo. <br>
+- Depois de definido e mantido ou não o principal propósito do projeto, defina o formato da solução. Qual o formato da solução que você irá entregar. Nesse processo terão que ser definidos: granularidade, tipo de problema, potenciais métodos e formato de entrega.
 
-granularidade: por dia, por semana, mensalmente, por loja, por produto, por categoria, por área
-tipo de problema: regressão, classificação, predição, clusterização
-potenciais métodos: rede neural, time series, 
-formato de entrega: dashboard, csv, imagem em anexo de email, no próprio celular
+granularidade: por dia, por semana, mensalmente, por loja, por produto, por categoria, por área;<br>
+tipo de problema: regressão, classificação, predição, clusterização;<br>
+potenciais métodos: rede neural, time series; e<br>
+formato de entrega: dashboard, csv, imagem em anexo de email, no próprio celular.
 
-Para começar a aprender todo o processo dentro de um projeto de Data Science serão usados os dados de uma competição do Kaggle que pertencem aos ROSSMANN e tem o nome de ROSSMANN STORE SALES.
+**To start learning the entire process within a Data Science project, data from a Kaggle competition that belongs to ROSSMANN and will be called ROSSMANN STORE SALES will be used. <br>
+To need it just click on this link:https://www.kaggle.com/c/rossmann-store-sales**
+
+Para começar a aprender todo o processo dentro de um projeto de Data Science serão usados os dados de uma competição do Kaggle que pertencem aos ROSSMANN e tem o nome de ROSSMANN STORE SALES.<br>
+Para ecessá-lo basta clicar neste link: https://www.kaggle.com/c/rossmann-store-sales
