@@ -19,8 +19,7 @@ Mostrarei os códigos, o resumo sobre meus aprendizados e o post que escrevi sob
 
 ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/gif_minions.gif)
 
-# 1.0 - About the course
-Sobre o Curso
+# 1.0 - About the course <br>Sobre o Curso
 
 **This data science course is not a traditional course easily found on the market. His focus is not on teaching the tools used by a data scientist, such as: Python, Pandas, Numpy, Sckit-Learn, Machine Learning, SQL, among others. However, he also does not require you to be an expert on the subject, but you must have at least a sense of the topic and the tools.**
 
@@ -42,8 +41,7 @@ Todo o conhecimento necessário para você executar as tarefas dentro do curso e
 
 Eu já estou um tempo no mercado trabalhando e conhecendo ou fazendo alguns cursos. Posso te garantir que curso com esse tipo de material é raro e vale muito para sua carreira de cientita de dados.
 
-# 2.0 - Content of the course
-Conteúdo do curso
+# 2.0 - Content of the course <br>Conteúdo do curso
 
 **Module 01 - Understanding the Business Problem**
 
@@ -104,3 +102,7 @@ Bônus 03 - Mapa de Estudos para Data Science
 **Bonus 04 - Data Science Office Hour**
 
 Bônus 04 - Data Science Office Hour
+
+# 3.0 - Codes of the evolution <br>Códigos da Evolução
+
+## Module 01 - Understanding the Business Problem** <br> Modulo 01 - Entendendo o Problema de Negócio
