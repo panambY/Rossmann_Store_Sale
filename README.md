@@ -148,3 +148,46 @@ Dentro desta competição as respostas para entendermos o problema do negócio f
 - Causa Raiz do Problema -> Investimento em Reforma das Lojas<br>
 - Quem é o Stakeholder -> O CFO<br>
 - Formato da Solução -> granularidade (vendas diárias em $ nas proximas 6 semanas), tipo de problema (predição), métodos (time series, regressão e redes neurais) e formato de entrega (via celular)
+
+**At the end of this Module, the project management method called CRISP-DS was taught. It is better known as CRISP-DM, but as we are applying here for Data Science we will use DS instead of DM. Its main characteristic is that it is a CYCLICAL method of development, where you will assume that you will go through the same stage several times. This is important for several reasons, such as:** <br>
+- **You will already have a 1st end-to-end version of the project** <br>
+- **Speed in delivering value** <br>
+- **Mapping all possible problems** <br>
+- **Assists in the common mistake of being "in love" with a specific stage and not worrying about the whole**
+
+**Its steps are as follows:** <br>
+- **Business Question** <br>
+- **Understanding the Business** <br>
+- **Data Collection** <br>
+- **Data cleaning** <br>
+- **Data Exploration** <br>
+- **Data Modeling** <br>
+- **Machine Learning Algorithms** <br>
+- **Evaluation of Algorithms** <br>
+- **Production Model** <br>
+
+**It is worth mentioning that the concern in the first cycle is not with the accuracy of the model, but with finishing the first cycle. Because then we will be able to identify if there is a problem when we implement the solution.** <br>
+**If a problem is found in the implementation, the possible solutions would be: Give up the project, seek from the engineering team to change the data supply so that you have the necessary data or assume the low accuracy of your model with the absence of the data.** <br>
+**Finally, when the first cycle ends, it is restarted at the Business Understanding stage.**
+
+No final deste Módulo foi ensinado o método de gerenciamento de projetos chamado CRISP-DS. Ele é mais conhecido como CRISP-DM, mas como estamos aplicando aqui para Ciência de Dados utilizaremos o DS no lugar do DM. Sua principal característica é ser um método CÍCLICO de desenvolvimento, onde você vai assumir que vai passar várias vezes pela mesma etapa. Isso é importante por diversos motivos, como:<br>
+- Você já terá uma 1ª versão end-to-end do projeto<br>
+- Velocidade na entrega do valor<br>
+- Mapeamento de todos os possíveis problemas<br>
+- Auxilia no erro comum de ficar "apaixonado" por alguma etapa específica e não se preocupar com o todo
+
+Suas etapas são as seguintes:<br>
+- Questão de Negócio<br>
+- Entendimento do Negócoio<br>
+- Coleta dos Dados<br>
+- Limpeza dos Dados<br>
+- Exploração dos Dados<br>
+- Modelagem de Dados<br>
+- Algoritmos de Machine Learning<br>
+- Avaliação dos Algoritmos<br>
+- Modelo de Produção<br>
+
+Vale destacar que a preocupação no primeiro ciclo não é com a acurácia do modelo, mas sim com terminar o primeiro ciclo. Porque assim coseguiremos identificar se existe algum problema ao implementarmos a solução.<br>
+Caso se descubra algum problema na implementação as soluções possíveis seriam: Desistir do projeto, buscar junto à equipe de engenharia a mudança do fornecimento dos dados para que você tivesse o dado necessário ou assumir a baixa acurácia do seu modelo com a ausência do dado.<br>
+Por fim, quando acaba o primeiro ciclo, ele é reiniciado na etapa do Entendimento do Negócio.
+
