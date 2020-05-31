@@ -103,3 +103,29 @@ Its steps are as follows: <br>
 It is worth mentioning that the concern in the first cycle is not with the accuracy of the model, but with finishing the first cycle. Because then we will be able to identify if there is a problem when we implement the solution. <br>
 If a problem is found in the implementation, the possible solutions would be: Give up the project, seek from the engineering team to change the data supply so that you have the necessary data or assume the low accuracy of your model with the absence of the data.<br>
 Finally, when the first cycle ends, it is restarted at the Business Understanding stage.
+
+## Module 02 - The Data Description <br>
+
+When cleaning data, the first thing to do is a descriptive analysis and then apply the cleaning itself. This procedure is important because it allows us to see the size of the problem that we will be dealing with and how challenging it will be. In addition, it will also help you in the process of stipulating the project's execution time. <br>
+There is 4 main points within the descriptive analysis and that will help you do an appropriate cleaning so that your model does not have difficulties in generating a good accuracy:
+
+- Amount of data -> do I have the necessary tool to work with this amount of data? Do I have the right resources to perform this task?<br>
+- Variable types -> what methods will be needed to be executed throughout the project for transformation, encoding, correction or generation of new variables? <br>
+- Amount of missing data -> will I be able to continue with my project in face of this amount of NaN? What is the reason for missing data? <br>
+- Summary of data -> Here the goal is for you to get a general sense of the size of your data. Various techniques of Descriptive Statistics will be used so that you can have access to this knowledge.
+
+Obs: When you are dealing with the missing value there are three ways which you can solve this problem: <br>
+- give up of the project because there are several missing values <br>
+- fill the empty spaces with algorithms <br>
+- understand the model business and try to fill the missing values
+
+Inside the part of Descriptive Statistics, there are two advantages about using this method: <br>
+- Knowing a better understand about the business <br>
+- To detect some error <br>
+These purposes we can achive by apllying two in Basic Statistics thecniques , which are: <br>
+- Central Tendency-> mean, median, mode <br>
+- Dispersion -> standard deviantion, variance, minimum, maximum, range, skew, kurtosis
+
+Obs: For numerical variables use statistical code in in python, but for categorical variables use box plot graph.
+
+
