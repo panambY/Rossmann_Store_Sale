@@ -121,7 +121,8 @@ Obs: When you are dealing with the missing value there are three ways which you 
 
 Inside the part of Descriptive Statistics, there are two advantages about using this method: <br>
 - Knowing a better understand about the business <br>
-- To detect some error <br>
+- To detect some error
+
 These purposes we can achive by apllying two in Basic Statistics thecniques , which are: <br>
 - Central Tendency-> mean, median, mode <br>
 - Dispersion -> standard deviantion, variance, minimum, maximum, range, skew, kurtosis
