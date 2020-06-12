@@ -9,7 +9,7 @@ I will show the codes, the abstract about my learnings and the post which I writ
 # Index<br>
 ## 1.0 - About the course <br>
 ## 2.0 - Content of the course <br>
-## 3.0 - Codes of the evolution <br>
+## 3.0 - Explanations <br>
 ## 4.0 - Conclusion <br>
 
 ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/gif_minions.gif)
@@ -58,7 +58,7 @@ Bonus 03 - Study Map for Data Science
 
 Bonus 04 - Data Science Office Hour
 
-# 3.0 - Codes of the evolution <br>
+# 3.0 - Explanations <br>
 
 ## Module 01 - Understanding the Business Problem <br>
 
