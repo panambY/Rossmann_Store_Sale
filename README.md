@@ -9,7 +9,7 @@ I will show the codes, the abstract about my learnings and the post which I writ
 # Index<br>
 ## 1.0 - About the course <br>
 ## 2.0 - Content of the course <br>
-## 3.0 - Codes of the evolution <br>
+## 3.0 - Explanations <br>
 ## 4.0 - Conclusion <br>
 
 ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/gif_minions.gif)
@@ -58,7 +58,7 @@ Bonus 03 - Study Map for Data Science
 
 Bonus 04 - Data Science Office Hour
 
-# 3.0 - Codes of the evolution <br>
+# 3.0 - Explanations <br>
 
 ## Module 01 - Understanding the Business Problem <br>
 
@@ -136,3 +136,17 @@ For Data Exploration to be well done, it is necessary to follow 3 (three) proces
 - List of Hypotheses -> Through the Mind Map tool you create a Hypothesis Map that then generates a Hypothesis List. This map has elements that will guide the creation of your list, which are: phenomenon, agents and attributes. Your project has the root problem or phenomenon to be solved. Present in this phenomenon are the agents that influence it. Each agent has characteristics or attributes. <br>
 - Creation or derivation of variables -> With this List of Hypotheses you will prioritize your items following a business limitation, that is, if the data you will need to be used in the exploratory phase you already have it available in the dataset or you will have to do some data engineering to obtain it over there. The rule is very simple: if you already have the data available, the assumption will be maintained, if not, it will be removed and can be used in the next cycles if your model does not perform well. <br>
 - Filtering variables -> First of all it is important to differentiate between filtering and selection of variables. The first has to do with restrictions according to the business where it is inserted and the second with the relevance that it has for the model. It is very common, if not almost mandatory, that your dataset has data that has been collected in different parts during your company's business process, that is, it has data that was acquired at the beginning of the mat and data that is acquired almost at the end her. To prevent this from happening, you will do the filtering of the variables before the Exploratory Data Analysis (EDA) so that in the next phase you have not only all the variables necessary to validate the assumptions in the Hypothesis List, but also those that will actually be available for use in the model.
+
+## Module 04 - Exploratory Data Analysis <br>
+
+When we do EAD we have to find out how the variables impact the phenomenon we are trying to predict and the strength of that impact on the response variable. This helps us to know the reason that your Machine Learning model may not have performed well at the end of your project. Without EDA you would try to solve this problem by going through a manual trial and error process, which is very time consuming and ineffective.
+
+Objectives: <br>
+- Gain business experience; <br>
+- Validate Business Assumptions (insights); <br>
+- Realize variables that are important to the model.
+
+The types of analysis: <br>
+- Univariate Analysis; <br>
+- Bivariate Analysis; <br>
+- Multivariate Analysis.
