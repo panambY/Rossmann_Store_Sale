@@ -150,3 +150,11 @@ The types of analysis: <br>
 - Univariate Analysis; <br>
 - Bivariate Analysis; <br>
 - Multivariate Analysis.
+
+## Module 05 - Data Preparation <br>
+
+Within Data Modeling, we have Data Preparation and they help us to model data for the training of Machine Learning Algorithms. This concern is motivated by the fact that most algorithms and ML are facilitated with numerical data and on the same scale.
+
+- Normalization -> Rescala the center to 0 (zero) with standard deviation equal to 1 (one) and is used for variables with normal distribution. <br>
+- Rescaling -> Its operation is similar to normalization, but there are some fundamental differences. The first would be that it reshapes between 0 (zero) and 1 (one) and no longer between +1 and -1. The second, and the most important difference, is that it will be used in variables with non-Gaussian distribution. <br>
+- Transformation -> This method works in two different ways. The first one would be applying the encoding which would be the conversion of numeric data into categorical data. The second would be in relation to the transformation of nature, for example, we have the variable months that have the same sets of months that are from 1 to 12, that is, we can observe that they have a cyclical nature since after 12 it goes back to the 1 and so on. With that we can use a method that applies a transformation so that the algorithm can understand this cyclical nature.
