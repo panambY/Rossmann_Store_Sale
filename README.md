@@ -158,3 +158,12 @@ Within Data Modeling, we have Data Preparation and they help us to model data fo
 - Normalization -> Rescala the center to 0 (zero) with standard deviation equal to 1 (one) and is used for variables with normal distribution. <br>
 - Rescaling -> Its operation is similar to normalization, but there are some fundamental differences. The first would be that it reshapes between 0 (zero) and 1 (one) and no longer between +1 and -1. The second, and the most important difference, is that it will be used in variables with non-Gaussian distribution. <br>
 - Transformation -> This method works in two different ways. The first one would be applying the encoding which would be the conversion of numeric data into categorical data. The second would be in relation to the transformation of nature, for example, we have the variable months that have the same sets of months that are from 1 to 12, that is, we can observe that they have a cyclical nature since after 12 it goes back to the 1 and so on. With that we can use a method that applies a transformation so that the algorithm can understand this cyclical nature.
+
+## Module 06 - Feature Selection <br>
+
+Always give preference to simpler models. These simpler models learn from simpler data sets. To arrive at this type of model we have to go through the process of removing collinear variables. When two or more variables explain the same part of the phenomenon they are called collinear and one of them can be removed.
+
+The 3 Types of Selection of Variables: <br>
+- Filter Method -> It takes into account relevance, which means how each variable explains a portion of the phenomenon. The Correlation Coefficient is the statistical way to discover this relevance, that is, it explains a little this relationship of intensity between the variables. <br>
+- Embedded Method -> Unlike the Filter Method, which uses correlation as a criterion, here importance is used as a criterion. It is also known as the Embedded Method, as it is already embedded within several Machine Learning algorithms, that is, it is a by-product of learning these algorithms. <br>
+- Wrapper Method -> This method is totally different from the previous ones and consists of adding the variables one by one and calculating their performance. If it goes up, the variable included last is relevant, but if the performance falls or is the same, the variable added last is irrelevant for the model.
