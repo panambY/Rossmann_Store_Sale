@@ -167,3 +167,16 @@ The 3 Types of Selection of Variables: <br>
 - Filter Method -> It takes into account relevance, which means how each variable explains a portion of the phenomenon. The Correlation Coefficient is the statistical way to discover this relevance, that is, it explains a little this relationship of intensity between the variables. <br>
 - Embedded Method -> Unlike the Filter Method, which uses correlation as a criterion, here importance is used as a criterion. It is also known as the Embedded Method, as it is already embedded within several Machine Learning algorithms, that is, it is a by-product of learning these algorithms. <br>
 - Wrapper Method -> This method is totally different from the previous ones and consists of adding the variables one by one and calculating their performance. If it goes up, the variable included last is relevant, but if the performance falls or is the same, the variable added last is irrelevant for the model.
+
+## Module 07 - Machine Learning Models <br>
+
+- Supervisioned: <br>
+a) classification <br>
+b) Regression <br>
+c) Time Series
+
+- Unsupervised: <br>
+a) Grouping or Clustering
+
+- Semi Supervised: uses the concepts of Agent, Action, Environment and Reward <br>
+a) Reinforcement Learning
