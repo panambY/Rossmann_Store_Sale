@@ -170,10 +170,12 @@ The 3 Types of Selection of Variables: <br>
 
 ## Module 07 - Machine Learning Models <br>
 
+Learning the behavior of something with available variables and then generalizing it for the future.
+
 - Supervisioned: <br>
-a) classification <br>
-b) Regression <br>
-c) Time Series
+a) classification -> used for variable categorical responses <br>
+b) Regression -> used for variable numerical responses <br>
+c) Time Series -> used to predict future behavior based on past behavior
 
 - Unsupervised: <br>
 a) Grouping or Clustering
