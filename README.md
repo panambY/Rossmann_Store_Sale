@@ -1,4 +1,7 @@
-# Data_Science_inProduction
+# Rossmann Store Sale
+
+## Data_Science_inProduction
+
 The main purpose of this repository is to show the evolution of my Data Science in Production brazilian course.
 
 ![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/data_science_em_producao_logo.png)
@@ -182,3 +185,17 @@ a) Grouping or Clustering
 
 - Semi Supervised: uses the concepts of Agent, Action, Environment and Reward <br>
 a) Reinforcement Learning
+
+## Module 08 - Hyperparameter Fine Tuning <br>
+
+- Random Search: Randomly chooses the parameter values. <br>
+a) Advantage -> Fast and low cost. <br>
+b) Disadvantage -> You will hardly be able to choose the best combination of values.
+
+- Grid Search: Choose all possible combinations between the parameter values. <br>
+a) Advantage -> Defines the true values that maximize the learning of the model. <br>
+b) Disadvantage -> Extremely time consuming and costly.
+
+- Bayesiana Search: Uses Bayes' theorem to define parameter values. <br>
+a) Advantage -> Faster than Grid Search and slower than Random Search. <br>
+b) Disadvantage -> A little hard the understanding.
