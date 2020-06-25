@@ -199,3 +199,17 @@ b) Disadvantage -> Extremely time consuming and costly.
 - Bayesiana Search: Uses Bayes' theorem to define parameter values. <br>
 a) Advantage -> Faster than Grid Search and slower than Random Search. <br>
 b) Disadvantage -> A little hard the understanding.
+
+## Module 09 - Error Interpretation and Translation <br>
+
+The importance of understanding the model's performance is being able to know how much value your model will bring to your company.
+
+- Error Interpretation: <br>
+a) MAE -> Mean Absolute Error. <br>
+b) MAPE -> Mean Absolute Percentage Error. Shows the percentage of error for your model. <br>
+c) RMSE -> Root Mean Squared Error. <br>
+d) MPE -> Mean Percentage Error. Indicates whether your model is overfitting (negative value) or underfitting (positive value).
+
+- Error Translation: <br>
+a) Status Quo -> You measure the impact of your model in relation to the metric used by your company showing what it brought in value and what your model will bring. The goal is for your model to bring more value than the forecast metric currently used. <br>
+b) Business Performance -> How much increment will your model add, that is, how much revenue will your model bring to the company.
