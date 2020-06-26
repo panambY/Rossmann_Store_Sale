@@ -118,9 +118,9 @@ There is 4 main points within the descriptive analysis and that will help you do
 - Summary of data -> Here the goal is for you to get a general sense of the size of your data. Various techniques of Descriptive Statistics will be used so that you can have access to this knowledge.
 
 Obs: When you are dealing with the missing value there are three ways which you can solve this problem: <br>
-- give up of the project because there are several missing values <br>
-- fill the empty spaces with algorithms <br>
-- understand the model business and try to fill the missing values
+- Give up of the project because there are several missing values <br>
+- Fill the empty spaces with algorithms <br>
+- Understand the model business and try to fill the missing values
 
 Inside the part of Descriptive Statistics, there are two advantages about using this method: <br>
 - Knowing a better understand about the business <br>
@@ -176,7 +176,7 @@ The 3 Types of Selection of Variables: <br>
 Learning the behavior of something with available variables and then generalizing it for the future.
 
 - Supervisioned: <br>
-a) classification -> used for variable categorical responses <br>
+a) Classification -> used for variable categorical responses <br>
 b) Regression -> used for variable numerical responses <br>
 c) Time Series -> used to predict future behavior based on past behavior
 
