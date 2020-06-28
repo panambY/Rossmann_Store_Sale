@@ -228,4 +228,4 @@ At the end of the construction of all this architecture and being put into produ
 
 ## Module 11 - Creating the Bot in Telegram <br>
 
-![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/bot-Telegram.gif)
+![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/bot_Telegram.gif)
