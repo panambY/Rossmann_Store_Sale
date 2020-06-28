@@ -4,7 +4,9 @@
 
 The main purpose of this repository is to show the evolution of my Data Science in Production brazilian course.
 
-![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/data_science_em_producao_logo.png)
+<p align="center">
+  <img src="https://github.com/panambY/Data_Science_inProduction/blob/master/image/data_science_em_producao_logo.png">
+</p>
 
 This repositore has the main purpose to show the evolution of my Data Science in Production brazilian course.
 I will show the codes, the abstract about my learnings and the post which I writing about this course content.
@@ -15,7 +17,9 @@ I will show the codes, the abstract about my learnings and the post which I writ
 ## 3.0 - Explanations <br>
 ## 4.0 - Conclusion <br>
 
-![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/gif_minions.gif)
+<p align="center">
+  <img src="https://github.com/panambY/Data_Science_inProduction/blob/master/image/gif_minions.gif">
+</p>
 
 # 1.0 - About the course <br>
 
@@ -228,4 +232,6 @@ At the end of the construction of all this architecture and being put into produ
 
 ## Module 11 - Creating the Bot in Telegram <br>
 
-![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/bot_Telegram.gif)
+<p align="center">
+  <img src="https://github.com/panambY/Data_Science_inProduction/blob/master/image/bot_Telegram.gif">
+</p>
