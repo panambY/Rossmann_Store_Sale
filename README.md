@@ -225,3 +225,7 @@ The architecture of the model in production: <br>
 - Model Training -> this is our trained model that has been saved and will be placed inside this folder in our production architecture. The Handler will take the data processed within Data Preparation and play it inside the model so that it provides the prediction.
 
 At the end of the construction of all this architecture and being put into production, the way it will be visualized can be through an App, Dashboard or a website.
+
+## Module 11 - Creating the Bot in Telegram <br>
+
+![Image description](https://github.com/panambY/Data_Science_inProduction/blob/master/image/data_science_em_producao_logo.png)
