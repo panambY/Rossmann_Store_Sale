@@ -15,7 +15,6 @@ I will show the codes, the abstract about my learnings and the post which I writ
 ## 1.0 - About the course <br>
 ## 2.0 - Content of the course <br>
 ## 3.0 - Explanations <br>
-## 4.0 - Conclusion <br>
 
 <p align="center">
   <img src="https://github.com/panambY/Data_Science_inProduction/blob/master/image/gif_minions.gif">
